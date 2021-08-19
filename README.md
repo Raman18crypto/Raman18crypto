@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raman18crypto
+- 👋 Hi, I’m @Raman Deep.S
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python,java,fullstack
 - 💞️ I’m looking to collaborate on latest technology so that i can learn exchange idea and meet like minded people
