@@ -1,10 +1,23 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+20261
+Fork on GitHub
+6168
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+preview
 <h1 align="center">Hi 👋, I'm Raman Deep.S</h1>
 <h3 align="center">A passionate Researcher from India</h3>
-<img align="right" alt="Coding-img" width="400" src="https://cdn.dribbble.com/userupload/9645531/file/original-e06e2fcbccbf3787ca63782d859c2e38.mp4">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raman18crypto&label=Profile%20views&color=0e75b6&style=flat" alt="raman18crypto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raman18crypto" alt="raman18crypto" /></a> </p>
 
 - 🔭 I’m currently working on **Swarm Drone Applications**
 
@@ -31,3 +44,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raman18crypto&show_icons=true&locale=en" alt="raman18crypto" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raman18crypto&" alt="raman18crypto" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
