@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence**
 
-- 📝 I regularly write articles on [LLM, Robotics](LLM, Robotics)
+- 📝 I regularly write articles on LLM, Robotics,Neural Networks **
 
 - 💬 Ask me about **Python, ML, AI, C, IOT, Java, WebDevelopment**
 
