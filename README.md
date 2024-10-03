@@ -3,9 +3,6 @@
 <h1 align="center">Hi 👋, I'm Raman Deep.S</h1>
 <h3 align="left">I'm a a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504">Indic Language Translator </a>, a translator web application for translation of native Indian languages.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raman18crypto&label=Profile%20views&color=0e75b6&style=flat" alt="raman18crypto" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raman18crypto" alt="raman18crypto" /></a> </p>
 
 - 🔭 I’m currently working on **Swarm Drone Applications**
 
