@@ -1,4 +1,4 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hacker%20Typer%20👨‍💻&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+[![SVG Banners](https://www.canva.com/design/DAGHklD2Sro/vPunVfG2e6PqS9ehV_2onw/watch?utm_content=DAGHklD2Sro&utm_campaign=designshare&utm_medium=link&utm_source=editor)](https://github.com/Akshay090/svg-banners)
 
 <h1 align="center">Hi 👋, I'm Raman Deep.S</h1>
 <h3 align="justify">I'm a a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504">Indic Language Translator </a>, a translator web application for translation of native Indian languages.</h3>
