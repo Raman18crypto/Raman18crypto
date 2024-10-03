@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [LLM, Robotics](LLM, Robotics)
 
-- 💬 Ask me about **Python, ML, AI, C, IOT**
+- 💬 Ask me about **Python, ML, AI, C, IOT, Java, WebDevelopment**
 
 - 📫 How to reach me **umeshdeep.19@gmail.com**
 
