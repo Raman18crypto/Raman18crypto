@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 
-- 📝 I regularly write articles on [LLM, Robotics and Neural Networks](LLM, Robotics and Neural Networks)
+- 📝 I regularly write articles on LLM, Robotics and Neural Networks
 
 - 💬 Ask me about **Python, ML, AI, C, Java, Internet of things,**
 
