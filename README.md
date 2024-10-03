@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Swarm Drone Applications**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence.**
 
-- 📝 I regularly write articles on LLM, Robotics,Neural Networks**
+- 📝 I regularly write articles on LLM, Robotics,Neural Networks.
 
-- 💬 Ask me about **Python, ML, AI, C, IOT, Java, WebDevelopment**
+- 💬 Ask me about **Python, ML, AI, C, IOT, Java, WebDevelopment.**
 
 - 📫 How to reach me **umeshdeep.19@gmail.com**
 
