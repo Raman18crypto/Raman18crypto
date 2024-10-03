@@ -30,4 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raman18crypto&show_icons=true&locale=en&layout=compact" alt="raman18crypto" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=raman18crypto&" alt="raman18crypto" /></p>
+<p><img align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=raman18crypto&" alt="raman18crypto" /></p>
