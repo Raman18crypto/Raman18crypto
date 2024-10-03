@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raman Deep.S</h1>
 <h3 align="left">I'm a a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504">Indic Language Translator </a>, a translator web application for translation of native Indian languages.</h3>
 
-<img align="right" alt="gif" width="400" source="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif" >
+<img align="right" alt="gif" width="400" source="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
 
 
 - 🔭 I’m currently working on **Swarm Drone Applications**
