@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1XHDlaXkdlYjJ9LXuHR3YtYpsfNGSQYDQ?usp=sharing](https://drive.google.com/drive/folders/1XHDlaXkdlYjJ9LXuHR3YtYpsfNGSQYDQ?usp=sharing)
 
-- ⚡ **Innovate, Integrate, Inspire**
+- ⚡ **Elevating Tech Horizons.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
