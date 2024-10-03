@@ -1,9 +1,5 @@
 <h1 align="center"># Hi, I'm Raman 👋🏾 👩🏾‍💻
-
-<img src="https://www.canva.com/design/DAGHklD2Sro/0vsQnwYAufqQlcIJLyaMwA/edit?utm_content=DAGHklD2Sro&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="Banner">
-I'm a a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper 
-<a href="https://ieeexplore.ieee.org/document/10531504">Indic Language Translator </a>, a translator web application for translation of native Indian languages.
-
+I'm a a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504">Indic Language Translator </a>, a translator web application for translation of native Indian languages.
 </h1>
 <h3 align="center">A passionate Researcher from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
