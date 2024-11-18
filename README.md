@@ -19,8 +19,6 @@
 
 - 📫 How to reach me **umeshdeep.19@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1XHDlaXkdlYjJ9LXuHR3YtYpsfNGSQYDQ?usp=sharing](https://drive.google.com/drive/folders/1XHDlaXkdlYjJ9LXuHR3YtYpsfNGSQYDQ?usp=sharing)
-
 - ⚡ **Elevating Tech Horizons.**
   
 
