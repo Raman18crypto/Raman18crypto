@@ -1,7 +1,7 @@
 <img align="center"  alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/raw/master/desktop-animation4.gif">
 
 <h1 align="center">Hi 👋, I'm Raman Deep.S</h1>
-<h3 align="justify"> I'm a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504"> 🤖 Indic Language Translator </a>, a translator web application for translation of native Indian languages.</h3>
+<h4 align="justify"> I'm a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504"> 🤖 Indic Language Translator </a>, a translator web application for translation of native Indian languages.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
