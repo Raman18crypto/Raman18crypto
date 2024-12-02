@@ -13,7 +13,7 @@
 
 - 🌐 <a href="https://ramanportfolio.com"> Website-Link </a>
 
-- 💬 Ask me about **Python, ML, AI, C, Java, Internet of things,**
+- 💬 Area of Expertise **Python, ML, AI, C, Java, Internet of things,**
 
 - 📫 How to reach me **umeshdeep.19@gmail.com**
 
