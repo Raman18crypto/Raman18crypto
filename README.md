@@ -9,11 +9,9 @@
   
 - 🔭 I’m currently working on **Swarm Drone Applications**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, Artificial Intelligence**
+- 🌱 I’m currently working on **Machine Learning, Deep Learning, Artificial Intelligence Projects.**
 
-- 👯 I’m looking to collaborate on **Machine Learning Projects**
-
-- 📝 I regularly write articles on LLM, Robotics and Neural Networks
+- 🌐 <a href="https://ramanportfolio.com"> Website-Link </a>
 
 - 💬 Ask me about **Python, ML, AI, C, Java, Internet of things,**
 
