@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
-<img align="center"  alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/gif/cityHaute.gif">
+
+<img align="center" padding-top="0"  alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/gif/cityHaute.gif">
 
 <h1 align="center">Hi 👋, I'm Raman Deep.S</h1>
 
