@@ -58,7 +58,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="45" height="45"/>
-<img src="https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png" alt="tailwind" width="45" height="45"/>
+<img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/31/tailwind.png" alt="tailwind" width="45" height="45"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raman18crypto&show_icons=true&locale=en&layout=compact" alt="raman18crypto" /></p>
