@@ -4,39 +4,99 @@
 
 <img align="center" alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/gif/cityHaute.gif">
 
-## 👋 Hi, I'm Raman Deep S
+<!--
+To use this as your GitHub profile README:
+1) Create a repo with your username (e.g., RamanDeepS/RamanDeepS)
+2) Add this file as README.md
+-->
 
-I'm a Machine Learning Engineer passionate about making open-source more approachable, building impactful technology, and fostering meaningful communities.
+<h1 align="center">Hi 👋, I'm Raman Deep S</h1>
+<p align="center">
+  <b>Student Researcher • Machine Learning • Generative Models</b><br/>
+  Building intelligent systems, contributing to open-source, and advancing accessible AI.
+</p>
 
-My work focuses on developing intelligent systems that solve real-world problems, with a strong interest in deep learning, generative models, and scalable AI solutions.
-
-### 💡 What I enjoy working on
-
-* Machine Learning & Deep Learning
-* Generative Models & AI Research
-* Data-driven applications
-* Open-source collaboration
-
-### 🛠️ Tech Stack
-
-* **Languages:** Python, Java, C
-* **Frameworks & Tools:** PyTorch, TensorFlow, Scikit-learn
-* **Other:** Data Analysis, Model Deployment, Research Workflows
-
-### 📄 Research & Projects
-
-I have published a research paper:
-🤖 **Indic Language Translator** — a web-based application designed to translate native Indian languages, aiming to improve accessibility and communication across diverse linguistic communities.
-
-### 🚀 Goals
-
-* Contribute to impactful open-source projects
-* Build AI systems that create real-world value
-* Collaborate with researchers and engineers globally
+<p align="center">
+  <a href="mailto:umeshdeep.19@gmail.com">Email</a> •
+  <a href="https://github.com/">GitHub</a> •
+  <a href="https://www.linkedin.com/">LinkedIn</a>
+</p>
 
 ---
 
-💬 Always open to collaboration, research opportunities, and meaningful conversations around AI and technology!
+## 🚀 About Me
+
+* 🎓 MS Computer Science @ Boston University
+* 🔬 Student Researcher in Machine Learning & Generative Models
+* 🧠 Interested in **multimodal AI, diffusion models, and representation learning**
+* 🌍 Passionate about **accessible AI** and **open-source collaboration**
+
+---
+
+## 🧪 Research Highlights
+
+* 🤖 **Indic Language Translator**
+  A web-based system for translating native Indian languages to improve accessibility across diverse communities.
+
+* 📊 **OOD Detection in Generative Models**
+  Studying failures of likelihood-based methods and exploring robust alternatives like **Likelihood Regret** and **Clipped Density/Coverage**.
+
+---
+
+## 🛠️ Tech Stack
+
+<p>
+  <b>Languages:</b> Python • Java • C <br/>
+  <b>ML/AI:</b> PyTorch • TensorFlow • Scikit-learn <br/>
+  <b>Tools:</b> NumPy • Pandas • Matplotlib • Git • Linux
+</p>
+
+---
+
+## 📂 Featured Projects
+
+* 🔹 **Generative Model Evaluation**
+
+  * OOD detection experiments (Likelihood, LR, Clipped Metrics)
+  * Research-style plots & analysis
+* 🔹 **Indic Language Translator**
+
+  * Neural MT for Indian languages
+* 🔹 **Deep Learning Experiments**
+
+  * PixelCNN, VAE, and generative modeling pipelines
+
+---
+
+## 📈 Current Focus
+
+* 🧠 Deep Generative Models (VAE, Diffusion, Autoregressive)
+* 🔍 Robust evaluation metrics for AI systems
+* ⚡ Scalable training & experimentation pipelines
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+</p>
+
+---
+
+## 🤝 Let's Collaborate
+
+* Research projects in ML / AI
+* Open-source contributions
+* Graduate-level collaborations
+
+---
+
+<p align="center">
+  💡 <i>"Building AI that understands, adapts, and empowers."</i>
+</p>
+
 
 
 <h3 align="left">Connect with me:</h3>
