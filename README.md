@@ -18,8 +18,8 @@ To use this as your GitHub profile README:
 
 <p align="center">
   <a href="mailto:umeshdeep.19@gmail.com">Email</a> •
-  <a href="https://github.com/">GitHub</a> •
-  <a href="https://www.linkedin.com/">LinkedIn</a>
+  <a href="https://github.com/Raman18crypto">GitHub</a> •
+  <a href="https://www.linkedin.com/in/raman-deep-s/">LinkedIn</a>
 </p>
 
 ---
