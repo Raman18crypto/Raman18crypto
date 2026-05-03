@@ -4,29 +4,40 @@
 
 <img align="center" alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/gif/cityHaute.gif">
 
-<h3 align="justify"> 
-  I'm Raman Deep.S, I'm a machine learning engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working      with    project that includes Python, Java, C & Deep Learning. My interest in the machine learning led me to publish a research paper <a href="https://ieeexplore.ieee.org/document/10531504"> 🤖 Indic Language Translator </a>, a             
-  translator web application for translation of native Indian languages.
-</h3>
+## 👋 Hi, I'm Raman Deep S
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+I'm a Machine Learning Engineer passionate about making open-source more approachable, building impactful technology, and fostering meaningful communities.
 
-<h3>
-  
-- 🔭 I’m currently working on **Swarm Drone Applications**
+My work focuses on developing intelligent systems that solve real-world problems, with a strong interest in deep learning, generative models, and scalable AI solutions.
 
-- 🌱 I’m currently working on **Machine Learning, Deep Learning, Artificial Intelligence Projects.**
+### 💡 What I enjoy working on
 
-- 🌐 <a href="https://ramanportfolio.com"> Website-Link </a>
+* Machine Learning & Deep Learning
+* Generative Models & AI Research
+* Data-driven applications
+* Open-source collaboration
 
-- 💬 Area of Expertise **Python, ML, AI, C, Java, Internet of things,**
+### 🛠️ Tech Stack
 
-- 📫 How to reach me **umeshdeep.19@gmail.com**
+* **Languages:** Python, Java, C
+* **Frameworks & Tools:** PyTorch, TensorFlow, Scikit-learn
+* **Other:** Data Analysis, Model Deployment, Research Workflows
 
-- ⚡ **Elevating Tech Horizons.**
-  
+### 📄 Research & Projects
 
-</h3>
+I have published a research paper:
+🤖 **Indic Language Translator** — a web-based application designed to translate native Indian languages, aiming to improve accessibility and communication across diverse linguistic communities.
+
+### 🚀 Goals
+
+* Contribute to impactful open-source projects
+* Build AI systems that create real-world value
+* Collaborate with researchers and engineers globally
+
+---
+
+💬 Always open to collaboration, research opportunities, and meaningful conversations around AI and technology!
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
