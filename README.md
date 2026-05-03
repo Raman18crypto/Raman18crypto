@@ -88,6 +88,8 @@ To use this as your GitHub profile README:
   💡 <i>"Building AI that understands, adapts, and empowers."</i>
 </p>
 
+<h1 align="center">Hey 👋What's Up?</h1>
+
 ###
 
 <div align="center">
@@ -138,4 +140,3 @@ To use this as your GitHub profile README:
 </picture>
 
 ###
-
