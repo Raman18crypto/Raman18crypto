@@ -4,7 +4,7 @@
 
 <img align="center" alt="banner" src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif">
 
-<h1 align="center">Hi 👋, I'm Raman Deep S</h1>
+<h2 align="center">Hi 👋, I'm Raman Deep Shiva Murthy</h2>
 <p align="center">
   <b>Student Researcher • Machine Learning • Generative Models</b><br/>
   Building intelligent systems, contributing to open-source, and advancing accessible AI.
