@@ -88,12 +88,10 @@ To use this as your GitHub profile README:
   💡 <i>"Building AI that understands, adapts, and empowers."</i>
 </p>
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="icons/Python-Dark.svg" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
   <img width="12" />
