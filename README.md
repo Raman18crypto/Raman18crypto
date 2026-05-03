@@ -2,13 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<img align="center" alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/gif/cityHaute.gif">
-
-<!--
-To use this as your GitHub profile README:
-1) Create a repo with your username (e.g., RamanDeepS/RamanDeepS)
-2) Add this file as README.md
--->
+<img align="center" alt="banner" src="https://github.com/thomas10-10/foo-Wallpaper-Feh-Gif/blob/master/gif/cityHaute.gif](https://i.imgur.com/2hY1bgg.mp4">
 
 <h1 align="center">Hi 👋, I'm Raman Deep S</h1>
 <p align="center">
