@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<img align="center" alt="banner" src="https://i.imgur.com/2hY1bgg.mp4">
+<img align="center" alt="banner" src="https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif">
 
 <h1 align="center">Hi 👋, I'm Raman Deep S</h1>
 <p align="center">
