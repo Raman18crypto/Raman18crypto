@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stacks
 
 <p>
   <b>Languages:</b> Python • Java • C <br/>
